@@ -1,4 +1,4 @@
-# Sucactus
+# Mailing Sucactus
 Plants website 
 For now a slide has been added.
 
